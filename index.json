@@ -1,6 +1,6 @@
 {
-  "Collection": "",
-  "URL": "",
+  "Collection": "Agrinion Squeeze Collection",
+  "URL": "https://digitalepigraphy.github.io/Agrinion/",
   "CiteAs": "",
   "Records": {
     "Agrinion_001": {
@@ -1223,6 +1223,52 @@
           },
           {
             "url": "https://doi.org/10.34847/nkl.9c70zn6j"
+          }
+        ]
+      }
+    },
+    "Agrinion_139": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jun. 27, 2018",
+      "Width": "1891",
+      "Height": "679",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.cc3ci530"
+        }
+      ],
+      "Inscription": {
+        "Title": "Stele funeraria di Polemon",
+        "Inscription bearer": "stele",
+        "Inscription type": "Stele funeraria di Polemon",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Angelokastro, Konopa-Arsinoe",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Daniela Summa",
+        "Date": "2005",
+        "Material": "carta",
+        "Width": "57",
+        "Height": "18,5",
+        "State of preservation": "buono, strappato",
+        "Title": "AGRINION - Stele funeraria di Polemon",
+        "Accession ID Number": "Agrinion 139",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.8b11bm7p"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.8b11bm7p"
           }
         ]
       }
