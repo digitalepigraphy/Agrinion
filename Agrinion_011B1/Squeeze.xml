@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="heightmap" value="Info.xml"></record_link>
+	<record_link type="neobject" value="Inscription.xml"></record_link>
+	<field id="27" value="Total facsimile reproduction of the inscription, on 2 sheet(s) of paper.">
+		<source url="https://doi.org/10.34847/nkl.eab3r5a0"></source>
+	</field>
+	<field id="7" value="Università Ca' Foscari, Venezia, Italia, Dorsoduro 3484/D Venezia (primo piano)"></field>
+	<field id="44" value="Claudia Antonetti"></field>
+	<field id="8" value="1981-1985"></field>
+	<field id="14" value="carta">
+		<source url="https://doi.org/10.34847/nkl.eab3r5a0"></source>
+	</field>
+	<field id="12" value="47"></field>
+	<field id="11" value="24,5"></field>
+	<field id="10" value="bon"></field>
+	<field id="26" value="AGRINION - Base opistografa lato (B) : contratto di affitto (CEGO 1, 4B)"></field>
+	<field id="47" value="Agrinion 011B1"></field>
+</record>

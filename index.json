@@ -1,0 +1,1233 @@
+{
+  "Collection": "",
+  "URL": "",
+  "CiteAs": "",
+  "Records": {
+    "Agrinion_001": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 5, 2018",
+      "Width": "922",
+      "Height": "1497",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.ea59rww8"
+        }
+      ],
+      "Inscription": {
+        "Title": "Stele con contratto tra privati",
+        "Inscription type": "Contratto tra privati",
+        "Publication": "CEGO 1, 5",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2050"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet of paper.",
+        "Present location": "Universita Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "26,5",
+        "Height": "44",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele con contratto tra privati",
+        "Accession ID Number": "Agrinion 001",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.3dbfs8n0"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.3dbfs8n0"
+          }
+        ]
+      }
+    },
+    "Agrinion_002": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Feb. 13, 2018",
+      "Width": "1365",
+      "Height": "954",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.db4dkuq1"
+        }
+      ],
+      "Inscription": {
+        "Title": "Epigramma funerario",
+        "Inscription bearer": "stele",
+        "Inscription type": "Epigramma funerario",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Agrinion, Megali Chora",
+        "Present location": "Museo Archeologico, Agrinio",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 30",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2051"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "30",
+        "Height": "20,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele con epigramma funerario",
+        "Accession ID Number": "Agrinion 002",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.bb399m4y"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.bb399m4y"
+          }
+        ]
+      }
+    },
+    "Agrinion_003": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Feb. 2, 2018",
+      "Width": "1337",
+      "Height": "894",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.cf18za31"
+        }
+      ],
+      "Inscription": {
+        "Title": "Manomissione",
+        "Inscription bearer": "blocco architettonico",
+        "Inscription type": "Manomissione",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Angelokastro, Konopa-Arsinoe",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 27",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2052"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "33,5",
+        "Height": "21,8",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Blocco architettonico con manomissione",
+        "Accession ID Number": "Agrinion 003"
+      }
+    },
+    "Agrinion_004": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Feb. 13, 2018",
+      "Width": "1013",
+      "Height": "1248",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.84e61247"
+        }
+      ],
+      "Inscription": {
+        "Title": "Manomissione",
+        "Inscription bearer": "blocco architettonico",
+        "Inscription type": "Manomissione",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kryo Nero, Phistyon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 29",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2053"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "25",
+        "Height": "31,7",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Blocco architettonico con manomissione",
+        "Accession ID Number": "Agrinion 004",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.2e625mi9"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.2e625mi9"
+          }
+        ]
+      }
+    },
+    "Agrinion_005": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 12, 2018",
+      "Width": "1982",
+      "Height": "456",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.636d6599"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Athanes figlio di Dionysios",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Athanes figlio di Dionysios",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Gavalou, Trichonion",
+        "Present location": "Museo Archeologico, Agrinio",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 97",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2054"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "42,6",
+        "Height": "9,4",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Athanes figlio di Dionysios",
+        "Accession ID Number": "Agrinion 005"
+      }
+    },
+    "Agrinion_007": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 6, 2018",
+      "Width": "1889",
+      "Height": "684",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.3e124t76"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Akrai",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 133",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2056"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "41,4",
+        "Height": "14,7",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria",
+        "Accession ID Number": "Agrinion 007"
+      }
+    },
+    "Agrinion_009": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jun. 27, 2018",
+      "Width": "1939",
+      "Height": "496",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.a2f90y00"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Timoxenos figlio di Hipparchos",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Timoxenos figlio di Hipparchos",
+        "Material": "pietra",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Akrai",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 83",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2057"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "54,2",
+        "Height": "13",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Timoxenos figlio di Hipparchos",
+        "Accession ID Number": "Agrinion 009"
+      }
+    },
+    "Agrinion_011A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "NIKON D800",
+      "Date": "Oct. 7, 2019",
+      "Width": "1469",
+      "Height": "1216",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.8175as85"
+        }
+      ],
+      "Inscription": {
+        "Title": "Arbitrato",
+        "Inscription type": "Arbitrato",
+        "Publication": "CEGO 1, 4A",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2058"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "49,5",
+        "Height": "46",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Base opistografa lato (A) : arbitrato (CEGO 1, 4A)",
+        "Accession ID Number": "Agrinion 011A"
+      }
+    },
+    "Agrinion_011B1": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 2, 2018",
+      "Width": "1641",
+      "Height": "936",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.e5285hx6"
+        }
+      ],
+      "Inscription": {
+        "Title": "Contratto di affitto",
+        "Inscription type": "Contratto di affitto",
+        "Publication": "CEGO 1, 4B",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2059"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 2 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Venezia, Italia, Dorsoduro 3484/D Venezia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "47",
+        "Height": "24,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Base opistografa lato (B) : contratto di affitto (CEGO 1, 4B)",
+        "Accession ID Number": "Agrinion 011B1",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.eab3r5a0"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.eab3r5a0"
+          }
+        ]
+      }
+    },
+    "Agrinion_013": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 6, 2018",
+      "Width": "1861",
+      "Height": "541",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.08d1fpla"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di L. Strabo",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di L. Strabo",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Agios Ilias, Ithoria",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 101",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2061"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "36",
+        "Height": "10",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di L. Strabo",
+        "Accession ID Number": "Agrinion 013",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.d98crhcq"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.d98crhcq"
+          }
+        ]
+      }
+    },
+    "Agrinion_014": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 2, 2018",
+      "Width": "1785",
+      "Height": "258",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.dad5wp1a"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Xenon",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Xenon",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Agios Ilias, Ithoria",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 61",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2062"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "60",
+        "Height": "7,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Xenon",
+        "Accession ID Number": "Agrinion 014",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.a0df48ov"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.a0df48ov"
+          }
+        ]
+      }
+    },
+    "Agrinion_015A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 2, 2018",
+      "Width": "1624",
+      "Height": "332",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.7aa29796"
+        }
+      ],
+      "Inscription": {},
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "44,5",
+        "Height": "7,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Athenodoros",
+        "Accession ID Number": "Agrinion 015A"
+      }
+    },
+    "Agrinion_015B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 2, 2018",
+      "Width": "1779",
+      "Height": "296",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.475ec89f"
+        }
+      ],
+      "Inscription": {},
+      "Squeeze": {
+        "Description": "Parziale facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "6,5",
+        "Height": "44,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Athenodoros",
+        "Accession ID Number": "Agrinion 15B",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.1ef57s5v"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.1ef57s5v"
+          }
+        ]
+      }
+    },
+    "Agrinion_016": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 6, 2018",
+      "Width": "1860",
+      "Height": "618",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.1dd38q7v"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Phillis",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Phillis",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Chrysovitsa, Koronta",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 52",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2064"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "24,5",
+        "Height": "7,8",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Phillis",
+        "Accession ID Number": "Agrinion 016",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.b1fe88u5"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.b1fe88u5"
+          }
+        ]
+      }
+    },
+    "Agrinion_017": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 2, 2018",
+      "Width": "1626",
+      "Height": "473",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.dc0a3ud4"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di (...)tomaka",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di (...)tomaka",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 58",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2065"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "44,5",
+        "Height": "11,4",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di (...)tomaka",
+        "Accession ID Number": "Agrinion 017",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.8aae6r43"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.8aae6r43"
+          }
+        ]
+      }
+    },
+    "Agrinion_019A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1078",
+      "Height": "1173",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.69a03x1u"
+        }
+      ],
+      "Inscription": {},
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "30",
+        "Height": "33,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Lastra con iscrizione di incerta natura",
+        "Accession ID Number": "Agrinion 019A"
+      }
+    },
+    "Agrinion_019B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1138",
+      "Height": "1187",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.e8ae275t"
+        }
+      ],
+      "Inscription": {},
+      "Squeeze": {
+        "Description": "Parziale facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "21,5",
+        "Height": "22,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Lastra con iscrizione di incerta natura",
+        "Accession ID Number": "Agrinion 019B",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.2d8e445s"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.2d8e445s"
+          }
+        ]
+      }
+    },
+    "Agrinion_021": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1050",
+      "Height": "1258",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.7bc9ojcd"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Polemarchos",
+        "Inscription bearer": "cippo",
+        "Inscription type": "Iscrizione funeraria di Polemarchos",
+        "Material": "arenaria, pietra",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Agios Vasilios, territorio degli Aperanti",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 78",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2067.html"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "18",
+        "Height": "14,8",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Polemarchos",
+        "Accession ID Number": "Agrinion 021",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.cdbb62nj"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.cdbb62nj"
+          }
+        ]
+      }
+    },
+    "Agrinion_022": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 2, 2018",
+      "Width": "1961",
+      "Height": "417",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.c9f226tg"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Philotas",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Philotas",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Oiniadai",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 118",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2068"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "42",
+        "Height": "8",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Philotas",
+        "Accession ID Number": "Agrinion 022",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.9fa7i862"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.9fa7i862"
+          }
+        ]
+      }
+    },
+    "Agrinion_023": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "May. 15, 2018",
+      "Width": "1619",
+      "Height": "1003",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.9bf6oum2"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Euporos figlio di Epinikos",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Euporos figlio di Epinikos",
+        "Material": "pietra, marmo",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Paravola, [Boukation]",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 102",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2069"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "41,5",
+        "Height": "25",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Euporos figlio di Epinikos",
+        "Accession ID Number": "Agrinion 023",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.ea5at3g2"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.ea5at3g2"
+          }
+        ]
+      }
+    },
+    "Agrinion_025": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 5, 2018",
+      "Width": "990",
+      "Height": "1520",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.a66bq06g"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di sei individui",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di sei individui",
+        "Material": "arenaria, pietra",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Agios Vasilios, territorio degli Aperanti",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 98",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2070.html"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "29",
+        "Height": "47,3",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di sette individui",
+        "Accession ID Number": "Agrinion 025",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.ce4b669z"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.ce4b669z"
+          }
+        ]
+      }
+    },
+    "Agrinion_026": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1842",
+      "Height": "493",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.f4afzx5f"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Nikia",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Nikia",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Angelokastro, Konopa-Arsinoe",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 70",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2072"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "29,7",
+        "Height": "7,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Nikia",
+        "Accession ID Number": "Agrinion 026",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.1fcbh9j3"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.1fcbh9j3"
+          }
+        ]
+      }
+    },
+    "Agrinion_027": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Jul. 2, 2018",
+      "Width": "1725",
+      "Height": "271",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.dbba1395"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Kleoxenos",
+        "Inscription bearer": "stele",
+        "Inscription type": "Iscrizione funeraria di Kleoxenos",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Gavalou, Trichonion",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 77",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2073"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "47",
+        "Height": "6,5",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Kleoxenos",
+        "Accession ID Number": "Agrinion 027",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.ae5dr3zd"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.ae5dr3zd"
+          }
+        ]
+      }
+    },
+    "Agrinion_028A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1464",
+      "Height": "1325",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.fb8aef78"
+        }
+      ],
+      "Inscription": {
+        "Title": "Decreto",
+        "Inscription type": "Decreto",
+        "Publication": "CEGO 1, 3A",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2074"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "18",
+        "Height": "16,4",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele con decreto",
+        "Accession ID Number": "Agrinion 028A"
+      }
+    },
+    "Agrinion_028B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1342",
+      "Height": "1495",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.016a46p8"
+        }
+      ],
+      "Inscription": {
+        "Title": "Decreto",
+        "Inscription type": "Decreto",
+        "Publication": "CEGO 1, 3B",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2075.html"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "18",
+        "Height": "20",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele con decreto",
+        "Accession ID Number": "Agrinion 028B",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.ecc54437"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.ecc54437"
+          }
+        ]
+      }
+    },
+    "Agrinion_029": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1794",
+      "Height": "613",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.6cdbu1o4"
+        }
+      ],
+      "Inscription": {
+        "Title": "Dedica onoraria",
+        "Inscription bearer": "base",
+        "Inscription type": "Dedica onoraria",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Bampini, Phoitiai",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Publication": "CEGO 1, 22",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2076"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "33,2",
+        "Height": "10,4",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Base con dedica onoraria",
+        "Accession ID Number": "Agrinion 029"
+      }
+    },
+    "Agrinion_030B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Scanner": "i2S DigiBook Scanner - CopiBook",
+      "Date": "Mar. 8, 2018",
+      "Width": "1749",
+      "Height": "761",
+      "DPI": "400",
+      "Digitized by": "Eloisa Paganoni",
+      "Credit": "Digitized by Universita Ca' Foscari Venezia.",
+      "Sources": [
+        {},
+        {
+          "url": "https://doi.org/10.34847/nkl.d6ee2644"
+        }
+      ],
+      "Inscription": {
+        "Title": "Iscrizione funeraria di Dori(...)",
+        "Inscription type": "Iscrizione funeraria di Dori(...)",
+        "Publication": "CEGO 1, 140",
+        "Sources": [
+          {
+            "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2077"
+          }
+        ]
+      },
+      "Squeeze": {
+        "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
+        "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
+        "Principal Investigator": "Claudia Antonetti",
+        "Date": "1981-1985",
+        "Material": "carta",
+        "Width": "26,8",
+        "Height": "10,8",
+        "State of preservation": "bon",
+        "Title": "AGRINION - Stele funeraria di Dori(...)",
+        "Accession ID Number": "Agrinion 030B",
+        "Sources": [
+          {
+            "url": "https://doi.org/10.34847/nkl.9c70zn6j"
+          },
+          {
+            "url": "https://doi.org/10.34847/nkl.9c70zn6j"
+          }
+        ]
+      }
+    }
+  },
+  "Editors": {},
+  "Sources": {}
+}

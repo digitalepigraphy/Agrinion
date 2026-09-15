@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="heightmap" value="Info.xml"></record_link>
+	<record_link type="neobject" value="Inscription.xml"></record_link>
+	<field id="7" value="Università Ca' Foscari"></field>
+	<field id="44" value="Claudia Antonetti"></field>
+	<field id="8" value="1981-1985"></field>
+	<field id="14" value="carta"></field>
+	<field id="12" value="42,6"></field>
+	<field id="11" value="9,4"></field>
+	<field id="10" value="bon"></field>
+	<field id="26" value="AGRINION - Stele funeraria di Athanes figlio di Dionysios"></field>
+	<field id="47" value="Agrinion 005"></field>
+</record>
