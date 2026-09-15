@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="Inscription.xml"></record_link>
+	<field id="27" value="Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.">
+		<source url="https://doi.org/10.34847/nkl.d9cfz9sg"></source>
+	</field>
+	<field id="7" value="Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)"></field>
+	<field id="44" value="Claudia Antonetti"></field>
+	<field id="8" value="1981-1985"></field>
+	<field id="14" value="carta">
+		<source url="https://doi.org/10.34847/nkl.d9cfz9sg"></source>
+	</field>
+	<field id="12" value="33"></field>
+	<field id="11" value="16,4"></field>
+	<field id="10" value="buono"></field>
+	<field id="26" value="AGRINION - Stele funeraria di Parthena"></field>
+	<field id="47" value="Agrinion 91"></field>
+</record>
