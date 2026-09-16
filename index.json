@@ -1318,6 +1318,83 @@
         ]
       }
     },
+    "Agrinion_033": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 2, 2018",
+      "Width": "1759",
+      "Height": "674",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "II secolo a.C., epoca classica",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 116"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "59,56",
+        "Height": "24,04",
+        "Accession ID Number": "Agrinion 033"
+      }
+    },
+    "Agrinion_034": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Mar. 8, 2018",
+      "Width": "1650",
+      "Height": "1117",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "40,13",
+        "Height": "28,07",
+        "Accession ID Number": "Agrinion 034"
+      }
+    },
+    "Agrinion_035A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Mar. 8, 2018",
+      "Width": "1094",
+      "Height": "1221",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 49",
+        "Inscription bearer": "stele",
+        "Material": "arenaria, pietra",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Agios Vasilios, territorio degli Aperanti",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "37,43",
+        "Height": "40,85",
+        "Accession ID Number": "Agrinion 035A"
+      }
+    },
     "Agrinion_036A": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -1397,6 +1474,27 @@
             "url": "https://doi.org/10.34847/nkl.82f6xr2m"
           }
         ]
+      }
+    },
+    "Agrinion_038": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1844",
+      "Height": "800",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "II - I secolo a.C., epoca ellenistica",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 123"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "37,02",
+        "Height": "18,15",
+        "Accession ID Number": "Agrinion 038"
       }
     },
     "Agrinion_040": {
@@ -1490,6 +1588,33 @@
         ]
       }
     },
+    "Agrinion_046": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1795",
+      "Height": "450",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Chrysovitsa, Koronta",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 62"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "28,59",
+        "Height": "10,55",
+        "Accession ID Number": "Agrinion 046"
+      }
+    },
     "Agrinion_047": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -1536,6 +1661,114 @@
             "url": "https://doi.org/10.34847/nkl.6a31g36x"
           }
         ]
+      }
+    },
+    "Agrinion_048B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 2, 2018",
+      "Width": "1887",
+      "Height": "999",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 67",
+        "Inscription bearer": "stele",
+        "Material": "calcare, pietra",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kapsorrachi, Metapa",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "48,6",
+        "Height": "25,6",
+        "Accession ID Number": "Agrinion 048B"
+      }
+    },
+    "Agrinion_050A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1856",
+      "Height": "785",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III - II secolo a.C., III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 69",
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Chrysovitsa, Koronta",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "38,93",
+        "Height": "19,75",
+        "Accession ID Number": "Agrinion 050A"
+      }
+    },
+    "Agrinion_050C": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1894",
+      "Height": "700",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III - II secolo a.C., III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 69",
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Chrysovitsa, Koronta",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "40,38",
+        "Height": "18,15",
+        "Accession ID Number": "Agrinion 050C"
+      }
+    },
+    "Agrinion_051": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 2, 2018",
+      "Width": "1633",
+      "Height": "594",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, marmo",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Chrysovitsa, Koronta",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 134"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "45,35",
+        "Height": "18,77",
+        "Accession ID Number": "Agrinion 051"
       }
     },
     "Agrinion_053": {
@@ -1715,6 +1948,33 @@
         ]
       }
     },
+    "Agrinion_057A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1507",
+      "Height": "894",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, I secolo a.C. - I secolo d.C., epoca imperiale romana",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, dedica, eroe",
+        "Publication": "CEGO 1, 16",
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "23,11",
+        "Height": "15,56",
+        "Accession ID Number": "Agrinion 057A"
+      }
+    },
     "Agrinion_057B": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -1807,6 +2067,33 @@
             "url": "https://doi.org/10.34847/nkl.2cb75cb7"
           }
         ]
+      }
+    },
+    "Agrinion_059A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 2, 2018",
+      "Width": "1811",
+      "Height": "348",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "II - I secolo a.C., epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 124",
+        "Inscription bearer": "stele",
+        "Material": "pietra, marmo",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Ithoria, Chrysovergi",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "47,93",
+        "Height": "12",
+        "Accession ID Number": "Agrinion 059A"
       }
     },
     "Agrinion_059B": {
@@ -1953,6 +2240,33 @@
         ]
       }
     },
+    "Agrinion_063": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1821",
+      "Height": "854",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Astakos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 93"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "41,62",
+        "Height": "22,03",
+        "Accession ID Number": "Agrinion 063"
+      }
+    },
     "Agrinion_064": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -1999,6 +2313,33 @@
             "url": "https://doi.org/10.34847/nkl.c093g6hy"
           }
         ]
+      }
+    },
+    "Agrinion_065A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "2017",
+      "Height": "583",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 141",
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Astakos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "46,38",
+        "Height": "16,39",
+        "Accession ID Number": "Agrinion 065A"
       }
     },
     "Agrinion_066": {
@@ -2089,6 +2430,27 @@
             "url": "https://doi.org/10.34847/nkl.35b8ph7j"
           }
         ]
+      }
+    },
+    "Agrinion_068": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1751",
+      "Height": "865",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 87"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "26,73",
+        "Height": "16,75",
+        "Accession ID Number": "Agrinion 068"
       }
     },
     "Agrinion_069": {
@@ -2227,6 +2589,60 @@
             "url": "https://doi.org/10.34847/nkl.cfb0qxki"
           }
         ]
+      }
+    },
+    "Agrinion_072": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 3, 2018",
+      "Width": "1728",
+      "Height": "819",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "arenaria, pietra",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Kryo Nero, Phistyon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "IV secolo a.C., epoca classica",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 38"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "57,24",
+        "Height": "27,41",
+        "Accession ID Number": "Agrinion 072"
+      }
+    },
+    "Agrinion_073": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 3, 2018",
+      "Width": "1689",
+      "Height": "260",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "IV secolo a.C., epoca classica",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 39"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "56,83",
+        "Height": "12,2",
+        "Accession ID Number": "Agrinion 073"
       }
     },
     "Agrinion_074": {
@@ -2373,6 +2789,114 @@
         ]
       }
     },
+    "Agrinion_077": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 3, 2018",
+      "Width": "1878",
+      "Height": "508",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Chrysovitsa, Koronta",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 50"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "51,24",
+        "Height": "16,19",
+        "Accession ID Number": "Agrinion 077"
+      }
+    },
+    "Agrinion_078A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1938",
+      "Height": "524",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 112",
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "41,78",
+        "Height": "14,48",
+        "Accession ID Number": "Agrinion 078A"
+      }
+    },
+    "Agrinion_078B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 3, 2018",
+      "Width": "1824",
+      "Height": "813",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 112",
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "49,64",
+        "Height": "24,3",
+        "Accession ID Number": "Agrinion 078B"
+      }
+    },
+    "Agrinion_079": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 3, 2018",
+      "Width": "1933",
+      "Height": "789",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca classica, V secolo a.C., epoca ellenistica, IV - III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 55",
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Metropolis, Palaiomanina",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "44,26",
+        "Height": "20,78",
+        "Accession ID Number": "Agrinion 079"
+      }
+    },
     "Agrinion_083": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -2413,6 +2937,87 @@
             "url": "https://doi.org/10.34847/nkl.cbbcl8t7"
           }
         ]
+      }
+    },
+    "Agrinion_084": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 8, 2018",
+      "Width": "1594",
+      "Height": "856",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Argos Amphilochikon, Kampos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 64"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "31,18",
+        "Height": "19,23",
+        "Accession ID Number": "Agrinion 084"
+      }
+    },
+    "Agrinion_085": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 8, 2018",
+      "Width": "1766",
+      "Height": "867",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Museo Archeologico, Agrinio",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 121"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "32,63",
+        "Height": "20,11",
+        "Accession ID Number": "Agrinion 085"
+      }
+    },
+    "Agrinion_086": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 9, 2018",
+      "Width": "1774",
+      "Height": "758",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Angelokastro, Konopa-Arsinoe",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 111"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "35,31",
+        "Height": "19,02",
+        "Accession ID Number": "Agrinion 086"
       }
     },
     "Agrinion_087": {
@@ -2647,6 +3252,164 @@
         ]
       }
     },
+    "Agrinion_093B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 9, 2018",
+      "Width": "1299",
+      "Height": "974",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "[Stratos]",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "18,2",
+        "Height": "15,15",
+        "Accession ID Number": "Agrinion 093B"
+      }
+    },
+    "Agrinion_095": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 9, 2018",
+      "Width": "910",
+      "Height": "935",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 178"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "14,63",
+        "Height": "13,91",
+        "Accession ID Number": "Agrinion 095"
+      }
+    },
+    "Agrinion_096A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 9, 2018",
+      "Width": "1084",
+      "Height": "790",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 180",
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "16,34",
+        "Height": "12,41",
+        "Accession ID Number": "Agrinion 096A"
+      }
+    },
+    "Agrinion_097": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 21, 2018",
+      "Width": "797",
+      "Height": "1080",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 183"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "12,67",
+        "Height": "16,08",
+        "Accession ID Number": "Agrinion 097"
+      }
+    },
+    "Agrinion_098": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 21, 2018",
+      "Width": "1472",
+      "Height": "967",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 184"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "22,03",
+        "Height": "15,98",
+        "Accession ID Number": "Agrinion 098"
+      }
+    },
+    "Agrinion_099": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 21, 2018",
+      "Width": "1240",
+      "Height": "1559",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 173"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "18,41",
+        "Height": "23,58",
+        "Accession ID Number": "Agrinion 099"
+      }
+    },
     "Agrinion_100C": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -2684,6 +3447,33 @@
             "url": "https://doi.org/10.34847/nkl.15fe0ob8"
           }
         ]
+      }
+    },
+    "Agrinion_101": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 3, 2018",
+      "Width": "1803",
+      "Height": "326",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III - II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 46"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "59,87",
+        "Height": "11,84",
+        "Accession ID Number": "Agrinion 101"
       }
     },
     "Agrinion_102": {
@@ -2821,6 +3611,60 @@
         ]
       }
     },
+    "Agrinion_106": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 21, 2018",
+      "Width": "1321",
+      "Height": "732",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 176"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "20,78",
+        "Height": "13,34",
+        "Accession ID Number": "Agrinion 106"
+      }
+    },
+    "Agrinion_108": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 21, 2018",
+      "Width": "804",
+      "Height": "1545",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 175",
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "12,67",
+        "Height": "22,28",
+        "Accession ID Number": "Agrinion 108"
+      }
+    },
     "Agrinion_109": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -2869,6 +3713,33 @@
         ]
       }
     },
+    "Agrinion_110": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 21, 2018",
+      "Width": "967",
+      "Height": "985",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "blocco architettonico",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Kalydon",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, marca di assemblaggio",
+        "Publication": "CEGO 1, 179"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "20,17",
+        "Height": "17,48",
+        "Accession ID Number": "Agrinion 110"
+      }
+    },
     "Agrinion_111A": {
       "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
       "Scanner": "i2S DigiBook Scanner - CopiBook",
@@ -2915,6 +3786,33 @@
             "url": "https://doi.org/10.34847/nkl.45dcw9ir"
           }
         ]
+      }
+    },
+    "Agrinion_112B": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "May. 21, 2018",
+      "Width": "1692",
+      "Height": "827",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "III secolo a.C., epoca ellenistica",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 72",
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Stratos",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "23,37",
+        "Height": "13,34",
+        "Accession ID Number": "Agrinion 112B"
       }
     },
     "Agrinion_113": {
@@ -3003,6 +3901,33 @@
             "url": "https://doi.org/10.34847/nkl.16a6ewxl"
           }
         ]
+      }
+    },
+    "Agrinion_115A": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 5, 2018",
+      "Width": "1847",
+      "Height": "414",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III - II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 81",
+        "Inscription bearer": "stele",
+        "Material": "arenaria, pietra",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "Kyparissos, [Thestia]",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "59,98",
+        "Height": "17,01",
+        "Accession ID Number": "Agrinion 115A"
       }
     },
     "Agrinion_116A": {
@@ -3282,6 +4207,141 @@
             "url": "https://doi.org/10.34847/nkl.7616wpky"
           }
         ]
+      }
+    },
+    "Agrinion_126": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jun. 5, 2018",
+      "Width": "1854",
+      "Height": "943",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Angelokastro, Konopa-Arsinoe",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 63"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "28,38",
+        "Height": "16,44",
+        "Accession ID Number": "Agrinion 126"
+      }
+    },
+    "Agrinion_127": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jun. 5, 2018",
+      "Width": "1951",
+      "Height": "463",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Angelokastro, Konopa-Arsinoe",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 117"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "42,3",
+        "Height": "13,18",
+        "Accession ID Number": "Agrinion 127"
+      }
+    },
+    "Agrinion_135": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jun. 5, 2018",
+      "Width": "1841",
+      "Height": "437",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Gavalou, Trichonion",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III - II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 139"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "34,44",
+        "Height": "10,7",
+        "Accession ID Number": "Agrinion 135"
+      }
+    },
+    "Agrinion_137": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jun. 5, 2018",
+      "Width": "1899",
+      "Height": "384",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "frammentario",
+        "Find spot (modern name)": "Agios Ilias, Ithoria",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, II secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 115"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "37,69",
+        "Height": "9,62",
+        "Accession ID Number": "Agrinion 137"
+      }
+    },
+    "Agrinion_138": {
+      "Description": "3D digitization of the artifact using bidirectional flatbed scanning.",
+      "Date": "Jul. 5, 2018",
+      "Width": "1646",
+      "Height": "458",
+      "Sources": [
+        {}
+      ],
+      "Inscription": {
+        "Inscription bearer": "stele",
+        "Material": "pietra, calcare",
+        "State of preservation": "completo",
+        "Find spot (modern name)": "sconosciuto",
+        "Present location": "Agrinio, Museo Archeologico",
+        "Principal Investigator": "Bruno Morandière",
+        "Language": "Greek",
+        "Period": "epoca ellenistica, III secolo a.C.",
+        "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
+        "Publication": "CEGO 1, 96"
+      },
+      "Squeeze": {
+        "Present location": "Università Ca' Foscari Venezia",
+        "Width": "53,41",
+        "Height": "17,11",
+        "Accession ID Number": "Agrinion 138"
       }
     },
     "Agrinion_139": {

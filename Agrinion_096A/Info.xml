@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="Squeeze.xml"/>
+	<record_link type="image" value="ImageTop.png"/>
+	<record_link type="image" value="ImageBottom.png"/>
+	<field id="27" value="3D digitization of the artifact using bidirectional flatbed scanning.">
+		<source><citation_id>bbw7at22v3yya72h</citation_id></source>
+	</field>
+	<field id="8" value="May. 9, 2018"/>
+	<field id="34" value="1084"/>
+	<field id="35" value="790"/>
+<record_link><neobject_id>_hkUNtcQ26DPsYR4L</neobject_id></record_link>
+</record>

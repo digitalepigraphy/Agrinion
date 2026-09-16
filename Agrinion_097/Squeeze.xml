@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="heightmap" value="Info.xml"></record_link>
+	<record_link type="neobject" value="Inscription.xml"></record_link>
+	<field id="7" value="Università Ca' Foscari Venezia"></field>
+	<field id="12" value="12,67"></field>
+	<field id="11" value="16,08"></field>
+	<field id="47" value="Agrinion 097"></field>
+</record>
