@@ -240,6 +240,7 @@
         "Publication": "CEGO 1, 97",
         "Language": "Greek",
         "Period": "epoca ellenistica, III - II secolo a.C.",
+        "Text": "ΑΘΑΝΗΣ ΔΙΟΝΥΣΙΟΥ / [...]",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2054"
@@ -892,6 +893,7 @@
         "Publication": "CEGO 1, 118",
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
+        "Text": "ΦΙΛΩΤΑ ΧΑΙΡΕ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2068"
@@ -1005,6 +1007,7 @@
         "Publication": "CEGO 1, 98",
         "Language": "Greek",
         "Period": "epoca ellenistica, III - II secolo a.C., II - I secolo a.C.",
+        "Text": "[...]ΛΑΜΩ / ΑΓΓΕΛΛΟΥ / ΒΡΑΧΥΛΛΑ / ΚΡΑΤΗΝΟΣ / ΚΡΑΤΙΝ ΤΙΜΑΣ / ΑΡΚΙΣΑΣ / ΜΙΚΚΑΣ / [...] / ΚΛΗΤΑΓΟΡ[ΑΣ]",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2070.html"
@@ -1482,7 +1485,8 @@
         "State of preservation": "frammentario",
         "Find spot (modern name)": "Agios Vasilios, territorio degli Aperanti",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[...] / ΘΕΟΔΟΤΟ[...] / [...]"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -1509,7 +1513,8 @@
       ],
       "Inscription": {
         "Title": "Stele funeraria di quattro individui",
-        "Inscription type": "Stele funeraria di quattro individui"
+        "Inscription type": "Stele funeraria di quattro individui",
+        "Text": "ΝΙΚΩΝ / [...] / [...] / ΛΕΩΝ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -1850,7 +1855,8 @@
         "State of preservation": "completo",
         "Find spot (modern name)": "Chrysovitsa, Koronta",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[...]ΩΝΙΚΟΥ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -1885,7 +1891,8 @@
         "State of preservation": "completo",
         "Find spot (modern name)": "Chrysovitsa, Koronta",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[...]ΩΝΙΚΟΥ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -2001,7 +2008,8 @@
         "Inscription type": "Stele funeraria per cinque individui",
         "Language": "Greek",
         "Period": "epoca ellenistica, III - II secolo a.C.",
-        "Publication": "CEGO 1, 107"
+        "Publication": "CEGO 1, 107",
+        "Text": "ΔΟΡΚΙΝΑ ΧΑ[ΙΡΕ] / [...] / ΑΡΙΣΤΟΝ[...] / [...]ΣΘΕΝ[...] / [...] ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 2 sheet(s) of paper.",
@@ -2051,7 +2059,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "IV secolo a.C., epoca classica",
-        "Publication": "CEGO 1, 86"
+        "Publication": "CEGO 1, 86",
+        "Text": "[...] ΑΓΗΣΙΠΠΟΛΙΟΣ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -3900,7 +3909,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, III - II secolo a.C.",
-        "Publication": "CEGO 1, 79"
+        "Publication": "CEGO 1, 79",
+        "Text": "ΠΥΡΡΙΣΑ ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -4197,7 +4207,8 @@
         "State of preservation": "completo",
         "Find spot (modern name)": "Kyparissos, [Thestia]",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "ΣΤΡΑΤΗΝ / [...]"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
