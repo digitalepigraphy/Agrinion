@@ -80,6 +80,7 @@
         "Present location": "Museo Archeologico, Agrinio",
         "Principal Investigator": "Bruno Morandière",
         "Publication": "CEGO 1, 30",
+        "Text": "ΑΝΑΗΝΕΣΑΙ / ΠΑΤΕΡΩΝΑΜΦΙΝ / ΡΙΑΚΟΝΤΕΤΑΤΑΙΘΕΙ / ΕΡΛΕΥΡΩΝΟΙΝΙΑΔ / ΝΤΑΛΕΟΝΤΑΔΟΡΥ / ΚΥΔΑΙΝΩΝΥΙΑ / ΟΝΑ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2051"
@@ -331,6 +332,7 @@
         "Publication": "CEGO 1, 83",
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
+        "Text": "ΤΙΜΟΞΕΝΟΥ / ΙΠΠΑΡΧΟΥ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2057"
@@ -465,6 +467,7 @@
         "Present location": "Agrinio, Museo Archeologico",
         "Principal Investigator": "Bruno Morandière",
         "Publication": "CEGO 1, 101",
+        "Text": "L·STRABO",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2061"
@@ -521,6 +524,7 @@
         "Publication": "CEGO 1, 61",
         "Language": "Greek",
         "Period": "IV secolo a.C., epoca classica",
+        "Text": "ΞΕΝΩΝΟϹ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2062"
@@ -565,7 +569,9 @@
           "url": "https://doi.org/10.34847/nkl.7aa29796"
         }
       ],
-      "Inscription": {},
+      "Inscription": {
+        "Text": "ΑΘΗΝΟΔΩΡΕ"
+      },
       "Squeeze": {
         "Present location": "Università Ca' Foscari",
         "Principal Investigator": "Claudia Antonetti",
@@ -595,7 +601,9 @@
           "url": "https://doi.org/10.34847/nkl.475ec89f"
         }
       ],
-      "Inscription": {},
+      "Inscription": {
+        "Text": "ΧΑΙΡΕ"
+      },
       "Squeeze": {
         "Description": "Parziale facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
         "Present location": "Università Ca' Foscari, Dorsoduro 3484/D, Venezia, Italia (primo piano)",
@@ -646,6 +654,7 @@
         "Publication": "CEGO 1, 52",
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
+        "Text": "ΦΙΛΛΙΣ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2064"
@@ -939,6 +948,7 @@
         "Publication": "CEGO 1, 102",
         "Language": "Greek",
         "Period": "epoca imperiale romana, II - III secolo d.C.",
+        "Text": "ΕΠΙΝΙΚΟΥ / ΕΛΕΥΘΕΡΟϹ / ΕΤΩΝ ΝΕ / ΧΑΙΡΕ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2069"
@@ -1051,6 +1061,7 @@
         "Publication": "CEGO 1, 70",
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
+        "Text": "ΝΙΚΙΑ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2072"
@@ -1107,6 +1118,7 @@
         "Publication": "CEGO 1, 77",
         "Language": "Greek",
         "Period": "epoca ellenistica, III - II secolo a.C.",
+        "Text": "ΚΛΕΟΞΕΝΟΥ",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2073"
@@ -1266,6 +1278,7 @@
         "Publication": "CEGO 1, 22",
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
+        "Text": "ΠΟΛΕΜ[...] / ΛΑΜΙΟ[...]",
         "Sources": [
           {
             "url": "https://digitalepigraphy.github.io/e-stampages.eu/s/e-stampages/item/2076"
@@ -1352,7 +1365,8 @@
       ],
       "Inscription": {
         "Title": "Stele funeraria di Antikrateia",
-        "Inscription type": "Stele funeraria di Antikrateia"
+        "Inscription type": "Stele funeraria di Antikrateia",
+        "Text": "ΑΝΤΙΚΡΑΤ[ΕΙΑ...]"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -1432,7 +1446,8 @@
         "State of preservation": "frammentario",
         "Find spot (modern name)": "Stratos",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "ΠΥΡΡ[...] / ΠΥΡΡ[...]"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -1581,7 +1596,8 @@
         "Language": "Greek",
         "Period": "II - I secolo a.C., epoca ellenistica",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 123"
+        "Publication": "CEGO 1, 123",
+        "Text": "ΑΡΣΙΝΟΑϹ / ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -1614,7 +1630,8 @@
         "State of preservation": "frammentario",
         "Find spot (modern name)": "[Angelokastro], [Konopa-Arsinoe]",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "ΔΙΚΑΙΟΥ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -1711,7 +1728,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 62"
+        "Publication": "CEGO 1, 62",
+        "Text": "ΑΛΕΞΑΝΔΡΟΥ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -1747,7 +1765,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
-        "Publication": "CEGO 1, 47"
+        "Publication": "CEGO 1, 47",
+        "Text": "ΚΛΕΥΜΕΝΗϹ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -1937,7 +1956,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca classica, IV - III secolo a.C.",
-        "Publication": "CEGO 1, 18"
+        "Publication": "CEGO 1, 18",
+        "Text": "ΑΠΟΛΛΩΝΙΑ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -2121,7 +2141,8 @@
         "State of preservation": "frammentario",
         "Find spot (modern name)": "Kalydon",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[...]ΑΝΤΑ / ΚΡΑΤΕΙΑ / ΕΩΝΙΗΡ[...]"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -2254,7 +2275,8 @@
         "State of preservation": "frammentario",
         "Find spot (modern name)": "Ithoria, Chrysovergi",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[Ν]ΙΚΗΦΟΡΕ ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -2290,7 +2312,8 @@
         "State of preservation": "frammentario",
         "Find spot (modern name)": "Ithoria, Chrysovergi",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "ΣΩΣΩ ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -2340,7 +2363,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca classica, V secolo a.C.",
-        "Publication": "CEGO 1, 57"
+        "Publication": "CEGO 1, 57",
+        "Text": "ΣΙΜΥΛΙΟΣ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -2390,7 +2414,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
-        "Publication": "CEGO 1, 44"
+        "Publication": "CEGO 1, 44",
+        "Text": "ΣΑΤΥΡΑ[...]"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -2554,7 +2579,8 @@
         "Inscription type": "Stele funeraria di Leaina",
         "Language": "Greek",
         "Period": "II - I secolo a.C., epoca ellenistica",
-        "Publication": "CEGO 1, 84"
+        "Publication": "CEGO 1, 84",
+        "Text": "ΛΕΑΙΝΑϹ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -2647,7 +2673,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 87"
+        "Publication": "CEGO 1, 87",
+        "Text": "[...] / ΑΙΣΧΥΛΟΥ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -2727,7 +2754,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
-        "Publication": "CEGO 1, 66"
+        "Publication": "CEGO 1, 66",
+        "Text": "ΧΡΗΣΙΜΟΥ / ΙΤΑΛΙΩΤΑ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -2947,7 +2975,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
-        "Publication": "CEGO 1, 92"
+        "Publication": "CEGO 1, 92",
+        "Text": "ΑΡΙΣΤΟΦΑΝΗΣ / ΝΙΚΟΦΑΝΕΟΣ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -3046,7 +3075,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 50"
+        "Publication": "CEGO 1, 50",
+        "Text": "ΣΤΡΑΤΟΝΙΚΑ / ΔΙΣΦΙΝΑΣ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -3081,7 +3111,8 @@
         "State of preservation": "completo",
         "Find spot (modern name)": "Stratos",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "ΑΡΝΙΟΠΑ[.] ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -3116,7 +3147,8 @@
         "State of preservation": "completo",
         "Find spot (modern name)": "Stratos",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[...] ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -3181,7 +3213,8 @@
         "Inscription type": "Stele funeraria di Agroitas",
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
-        "Publication": "CEGO 1, 109"
+        "Publication": "CEGO 1, 109",
+        "Text": "ΑΓΡΟΙΤΑ ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -3230,7 +3263,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 64"
+        "Publication": "CEGO 1, 64",
+        "Text": "ΣΙΜΑΚΑΣ / ΤΡΩΙΑΔΟΣ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -3265,7 +3299,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 121"
+        "Publication": "CEGO 1, 121",
+        "Text": "[...]ΕΩΝΑ / ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -3336,7 +3371,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
-        "Publication": "CEGO 1, 71"
+        "Publication": "CEGO 1, 71",
+        "Text": "ΦΙΛΙΝ·ΟΥ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -3386,7 +3422,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
-        "Publication": "CEGO 1, 41"
+        "Publication": "CEGO 1, 41",
+        "Text": "ΞΕΝΩΝ / ΠΑΤΡΕΥΣ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -3478,7 +3515,8 @@
         "Inscription type": "Stele funeraria di Antaios figlio di Sinnos",
         "Language": "Greek",
         "Period": "epoca ellenistica, III secolo a.C.",
-        "Publication": "CEGO 1, 89"
+        "Publication": "CEGO 1, 89",
+        "Text": "[Α]ΝΤΑΙΟ[Σ] / [Σ]ΙΝΝΟΥ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -3528,7 +3566,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "II - I secolo a.C., epoca ellenistica",
-        "Publication": "CEGO 1, 125"
+        "Publication": "CEGO 1, 125",
+        "Text": "ΠΑΡΘΕΝΑ / ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -3824,7 +3863,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, III - II secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 46"
+        "Publication": "CEGO 1, 46",
+        "Text": "ΚΙΛΟΝ ΝΕΟΙΚΙΑΣ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -3904,7 +3944,8 @@
         "Inscription type": "Stele funeraria di Timoi",
         "Language": "Greek",
         "Period": "III secolo a.C., epoca ellenistica",
-        "Publication": "CEGO 1, 103"
+        "Publication": "CEGO 1, 103",
+        "Text": "ΤΙΜΟΙ / [...] / ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 2 sheet(s) of paper.",
@@ -4205,7 +4246,8 @@
         "State of preservation": "frammentario",
         "Find spot (modern name)": "Stratos",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[...]ΙΝΟΥ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -4283,7 +4325,8 @@
         "Inscription type": "Stele con catalogo di magistrati",
         "Language": "Greek",
         "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
-        "Publication": "CEGO 1, 7"
+        "Publication": "CEGO 1, 7",
+        "Text": "[...] / ΥΣΕΙΑΔΑ ΓΡΑΥΧΙΩΝΟΣ / ΚΝΕΦΙΟΣ ΗΡΑΚΛΕΙΤΟΥ / ΝΗΙΑΛΛΑ ΑΡΙΣΤΩΝΟΣ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -4332,7 +4375,8 @@
         "State of preservation": "completo",
         "Find spot (modern name)": "Kyparissos, [Thestia]",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "ΤΙ[Μ]Ο·ΚΡΑΤΗ[Σ]"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -4368,7 +4412,8 @@
         "State of preservation": "completo",
         "Find spot (modern name)": "Trichonion, Stamna",
         "Present location": "Agrinio, Museo Archeologico",
-        "Principal Investigator": "Bruno Morandière"
+        "Principal Investigator": "Bruno Morandière",
+        "Text": "[...] / M P XXVI"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -4409,7 +4454,8 @@
       ],
       "Inscription": {
         "Title": "Stele con dedica a Artemide",
-        "Inscription type": "Stele con dedica a Artemide"
+        "Inscription type": "Stele con dedica a Artemide",
+        "Text": "ΟΙ ΣΥΝΠΕΡΙΠΟΛΟΙ / [...]"
       },
       "Squeeze": {
         "Description": "Parziale facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -4459,7 +4505,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
-        "Publication": "CEGO 1, 13"
+        "Publication": "CEGO 1, 13",
+        "Text": "ΦΑΛΑΚΡΑ ΥΠΕΡ [...] / [...] ΔΑΜΑΤΡΙ [...]"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -4509,7 +4556,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "IV secolo a.C., epoca classica",
-        "Publication": "CEGO 1, 23"
+        "Publication": "CEGO 1, 23",
+        "Text": "[...]ΟΕ[...] / [...]ΥΔ[...] / [...]ΙΟΝΑ[...] / [...]ΡΙΤΕΑΙ[...] / [...]Ρ ΦΟΙΝ[...]"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
@@ -4658,7 +4706,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, epoca classica, IV - III secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 63"
+        "Publication": "CEGO 1, 63",
+        "Text": "[...]ΙΟΣ / ΕΥΠΟΛΕΜΟΣ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -4693,7 +4742,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 117"
+        "Publication": "CEGO 1, 117",
+        "Text": "ΜΕΝΕΜΑΧΕ ΑΦΡΟΔΙΣΙΑ / ΧΑΙΡΕΤΕ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -4763,7 +4813,8 @@
         "Language": "Greek",
         "Period": "epoca ellenistica, II secolo a.C.",
         "Inscription type": "individuo, individuo che agisce a titolo privato, funeraria",
-        "Publication": "CEGO 1, 115"
+        "Publication": "CEGO 1, 115",
+        "Text": "ΕΥΘΥΔΑΜΕ ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Present location": "Università Ca' Foscari Venezia",
@@ -4835,7 +4886,8 @@
         "Principal Investigator": "Bruno Morandière",
         "Language": "Greek",
         "Period": "epoca ellenistica, III - II secolo a.C.",
-        "Publication": "CEGO 1, 108"
+        "Publication": "CEGO 1, 108",
+        "Text": "ΠΟΛΕΜΩ[Ν] / ΧΑΙΡΕ"
       },
       "Squeeze": {
         "Description": "Total facsimile reproduction of the inscription, on 1 sheet(s) of paper.",
